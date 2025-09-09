@@ -1,4 +1,41 @@
 
+## Update README.md
+- **Commit:** `aee4bcbb91f46a8b3706a55fdaa3491733ce905c`
+- **Date:** 2025-09-09 21:25:08 +0200
+- **Author:** dysshanks
+
+### Preview (first 3 lines of changes)
+```diff
+commit aee4bcbb91f46a8b3706a55fdaa3491733ce905c
+Author: dysshanks <ryanvdvorst@outlook.com>
+Date:   Tue Sep 9 21:25:08 2025 +0200
+```
+
+<details><summary>Full changes</summary>
+
+```diff
+commit aee4bcbb91f46a8b3706a55fdaa3491733ce905c
+Author: dysshanks <ryanvdvorst@outlook.com>
+Date:   Tue Sep 9 21:25:08 2025 +0200
+
+    Update README.md
+
+diff --git a/README.md b/README.md
+index 956c00e..a9aaec1 100644
+--- a/README.md
++++ b/README.md
+@@ -1,6 +1,5 @@
+ # OOP4Dummies
+ 
+-![Build](https://github.com/dysshanks/OOP4Dummies/actions/workflows/readme-generator.yml/badge.svg)
+ ![Issues](https://img.shields.io/github/issues/dysshanks/OOP4Dummies)
+ ![Stars](https://img.shields.io/github/stars/dysshanks/OOP4Dummies)
+ ![License](https://img.shields.io/github/license/dysshanks/OOP4Dummies)
+```
+
+</details>
+
+
 ## Create LICENSE
 - **Commit:** `c72ca818ab1e65c4173df703cbe16ee7cad31cbd`
 - **Date:** 2025-09-09 21:23:57 +0200
